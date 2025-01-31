@@ -4,13 +4,11 @@
 # Tools
 
 ## Phishing resistant MFA
-### Open source
-- [ ] [Open Key Chain](https://www.openkeychain.org/)
-- [ ] [Hacko](https://www.hanko.io/)
-- [ ] [Bulwark Passkey](https://bulwark.id/)
-
-### Proprietary
-- [ ] [Yubico](https://www.yubico.com/)
+|                     Open source                     |               Proprietary              |
+|-----------------------------------------------------|----------------------------------------|
+|     [Open Key Chain](https://www.openkeychain.org/) |     [Yubico](https://www.yubico.com/)  |
+|      [Hacko](https://www.hanko.io/)                 |                                        |
+| [Bulwark Passkey](https://bulwark.id/)              |                                        |
 
 
 ## Password managers
