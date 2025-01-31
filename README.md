@@ -1,7 +1,5 @@
-# Phishing Pitfalls
+# Phishing Pitfalls Tools
 **Avoid phishing pitfalls with the right tools in sight—FIDO, tokens, and knowledge to fight!** 🚀🔐
-
-# Tools
 
 ## Phishing resistant MFA
 |                     Open source                     |               Proprietary              |
@@ -19,3 +17,10 @@
 | [Birwarden](https://bitwarden.com/pricing/)           |                                                |
 | [Psono](https://psono.com/)                           |                                                |
 | [Passman](https://www.passman.cc/)                    |                                                |
+
+## Alias emails
+|                     Open source                       |               Proprietary                      |
+|-------------------------------------------------------|------------------------------------------------|
+|[Simple Login](https://simplelogin.io/)                | [Cloacked](https://www.cloaked.com/)           |
+|[Addy](https://addy.io)                                |
+|[Duckduckgo email](https://duckduckgo.com/email/)      |
