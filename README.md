@@ -12,3 +12,10 @@
 
 
 ## Password managers
+|                     Open source                       |               Proprietary                      |
+|-------------------------------------------------------|------------------------------------------------|
+|     [Keepass](https://keepass.info/)                  | [LastPass](https://www.lastpass.com/)          |
+|      [Lesspass](https://www.lesspass.com)             | [1Password](https://1password.com/)            |
+| [Birwarden](https://bitwarden.com/pricing/)           |                                                |
+| [Psono](https://psono.com/)                           |                                                |
+| [Passman](https://www.passman.cc/)                    |                                                |
