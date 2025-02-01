@@ -55,4 +55,20 @@
 |[Sandboxie](https://sandboxie-plus.com/sandboxie/)     |                                                |
 |[Firejail](https://github.com/netblue30/firejail)      |                                                |
 
+## Content filtering
+|                     Open source                                                                                 |               Proprietary                                    |
+|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+|[Web filter](https://chromewebstore.google.com/detail/web-filter-for-chrome/elebdopnkeckgfhkeeefmpmjjglandmi)    |[Ad guard](https://adguard.com/en/adguard-home/overview.html) |
+|[Rspamd](https://rspamd.com/)                                                                                    |[Control D](https://controld.com/personal)                    |
+|[Spam Assassin](https://spamassassin.apache.org/)                                                                |[Qustodio](https://www.qustodio.com/en/)                      |
+|[Mail Scanner](https://www.mailscanner.info/)                                                                    |                                                              |
+|[Eblocker](https://eblocker.org/en/)                                                                             |                                                              |
+
+## SSO
+|                     Open source                       |               Proprietary                      |
+|-------------------------------------------------------|------------------------------------------------|
+|[Gluu](https://gluu.org/)                              |[Okta](https://www.okta.com/)                   |
+|[Authelia](https://www.authelia.com/)                  |[Onelogin](https://www.onelogin.com/)           |
+|[Keycloak](https://www.keycloak.org/)                  |
+
 
