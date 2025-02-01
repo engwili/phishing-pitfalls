@@ -64,11 +64,59 @@
 |[Mail Scanner](https://www.mailscanner.info/)                                                                    |                                                              |
 |[Eblocker](https://eblocker.org/en/)                                                                             |                                                              |
 
-## SSO
+## Single Sign On (SSO)
 |                     Open source                       |               Proprietary                      |
 |-------------------------------------------------------|------------------------------------------------|
 |[Gluu](https://gluu.org/)                              |[Okta](https://www.okta.com/)                   |
 |[Authelia](https://www.authelia.com/)                  |[Onelogin](https://www.onelogin.com/)           |
 |[Keycloak](https://www.keycloak.org/)                  |
 
+## Reputation services
+|                     Open source                                                                                   |               Proprietary                      |
+|-------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
+|[Wot plugin](https://chromewebstore.google.com/detail/wot-website-security-safe/bhmmomiinigofkjcapegjjndpbikblnp)  |                                                |
+|[Phishtank](https://www.phishtank.com/)                                                                            |                                                | 
+|[Bitdefender](https://www.bitdefender.com/en-us/consumer/trafficlight)                                             |                                                |
+|[Norton](https://safeweb.norton.com/)                                                                              |                                                |
+|[Urlvoid](https://www.urlvoid.com/)                                                                                |                                                |
+
+## Blocklists
+|                     Open source                                     |               Proprietary                      |
+|---------------------------------------------------------------------|------------------------------------------------|
+|[DNS blocklist](https://github.com/hagezi/dns-blocklists)            |[CrowdSec](https://www.crowdsec.net/blocklists) |
+|[Spam house](https://www.spamhaus.org/blocklists/exploits-blocklist/)|
+|[Blacklistmaster](https://www.blacklistmaster.com/blacklists)        |
+
+## DNS lookup
+|                     Open source                                     |               Proprietary                      |
+|---------------------------------------------------------------------|------------------------------------------------|
+|[Nslookup](https://www.nslookup.io/)                                 |                                                |
+|[MXtoolbox](https://mxtoolbox.com/DNSLookup.aspx)                    |                                                |
+|[DNS checker](https://dnschecker.org/all-dns-records-of-domain.php)  |                                                |
+|[Domain tools](https://whois.domaintools.com/)                       |                                                |
+
+## Email settings
+|                     Open source                                     |               Proprietary                      |
+|---------------------------------------------------------------------|------------------------------------------------|
+|[Mozila Thungerbird](https://www.thunderbird.net/en-US/)             |[Mdaemon](https://mdaemon.com/)                 |
+|[Claws Mail](https://www.claws-mail.org/)                            |                                                |
+
+## Mobile device management (MDM)
+|                     Open source                                     |               Proprietary                      |
+|---------------------------------------------------------------------|------------------------------------------------|
+|[Fleetdm](https://fleetdm.com/)                                      |[Miradore](https://www.miradore.com/)           |
+|[MicroMDM](https://github.com/micromdm/micromdm)                     |[Relution](https://relution.io/en/)             |
+
+## Firewall
+|                     Open source                                     |               Proprietary                      |
+|---------------------------------------------------------------------|------------------------------------------------|
+|[pfSense](https://www.pfsense.org/)                                  |[NextDns](https://nextdns.io/)                  |
+|[openSense](https://opnsense.org/)                                   |                                                |
+
+## Honeypots and canaries
+|                     Open source                                     |               Proprietary                      |
+|---------------------------------------------------------------------|------------------------------------------------|
+|[Canary token](https://canarytokens.org/nest/)                       |[Thinkst canary](https://canary.tools/)         |
+|[Open canary](https://github.com/thinkst/opencanary)                 |                                                |
+|[Tpotce](https://github.com/telekom-security/tpotce)                 |                                                |
 
