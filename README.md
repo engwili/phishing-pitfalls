@@ -38,3 +38,21 @@
 |                                                       |[PST](https://pst.net/)                         |
 |                                                       |[LinkPay](https://linkpay.io/)                  |
 |                                                       |[Pyypl](https://www.pyypl.com/)                 |
+
+## VPN
+|                     Open source                       |               Proprietary                      |
+|-------------------------------------------------------|------------------------------------------------|
+|[Wireguard](https://www.wireguard.com/)                |[NetBird](https://netbird.io/)                  |                                                        
+|                                                       |[Nord VPN](https://nordvpn.com/)                |
+|                                                       |[Openvpn](https://openvpn.net/)                 |
+|                                                       |[Proton VPN](https://protonvpn.com/)            |
+
+## Detonation sandboxes
+|                     Open source                       |               Proprietary                      |
+|-------------------------------------------------------|------------------------------------------------|
+|[Cuckoo Sandbox](https://cuckoosandbox.org/index.html) |[Any run](https://any.run/)                     |
+|[Cape](https://capev2.readthedocs.io/en/latest/)       |                                                |
+|[Sandboxie](https://sandboxie-plus.com/sandboxie/)     |                                                |
+|[Firejail](https://github.com/netblue30/firejail)      |                                                |
+
+
