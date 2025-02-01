@@ -1,5 +1,4 @@
 # Phishing Pitfalls Tools
-**Avoid phishing pitfalls with the right tools in sight—FIDO, tokens, and knowledge to fight!** 🚀🔐
 
 ## Phishing resistant MFA
 |                     Open source                     |               Proprietary              |
@@ -24,3 +23,18 @@
 |[Simple Login](https://simplelogin.io/)                | [Cloacked](https://www.cloaked.com/)           |
 |[Addy](https://addy.io)                                |
 |[Duckduckgo email](https://duckduckgo.com/email/)      |
+
+## Virtual numbers
+|                     Open source                       |               Proprietary                      |
+|-------------------------------------------------------|------------------------------------------------|
+|[Free PBX](https://www.freepbx.org/)                   |[Virtual Phone](https://www.virtualphone.com/)  |
+|[LinPhone](https://www.linphone.org/)                  |[Online Sim](https://onlinesim.io/)             |
+|[Asterisk](https://www.asterisk.org/)                  |[Dial Pad](https://www.dialpad.com/)            |
+|                                                       |[Phone](https://www.phone.com/)                 |
+
+## Virtual cards
+|                     Open source                       |               Proprietary                      |
+|-------------------------------------------------------|------------------------------------------------|
+|                                                       |[PST](https://pst.net/)                         |
+|                                                       |[LinkPay](https://linkpay.io/)                  |
+|                                                       |[Pyypl](https://www.pyypl.com/)                 |
