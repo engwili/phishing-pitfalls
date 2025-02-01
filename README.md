@@ -1,5 +1,7 @@
 # Phishing Pitfalls Tools
 
+This is not a complete list, but it provides a starting point for selecting and implementing security tools.
+
 ## Phishing resistant MFA
 |                     Open source                     |               Proprietary              |
 |-----------------------------------------------------|----------------------------------------|
